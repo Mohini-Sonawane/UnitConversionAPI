@@ -103,13 +103,13 @@ dotnet run --project src/UnitConversion.API
 After the application starts, open:
 
 ```
-https://localhost:5001/swagger
+https://localhost:7200/swagger
 ```
 
 or
 
 ```
-http://localhost:5000/swagger
+http://localhost:5200/swagger
 ```
 
 (The exact URL will be shown in the terminal.)
